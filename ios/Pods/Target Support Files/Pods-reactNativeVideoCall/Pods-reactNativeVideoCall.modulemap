@@ -1,0 +1,6 @@
+module Pods_reactNativeVideoCall {
+  umbrella header "Pods-reactNativeVideoCall-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_reactNativeVideoCall_reactNativeVideoCallTests : NSObject
+@end
+@implementation PodsDummy_Pods_reactNativeVideoCall_reactNativeVideoCallTests
+@end
